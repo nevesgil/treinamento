@@ -1,7 +1,7 @@
 """
 Clouds classes - Python
 Desenvolvido em 21/10/2015
-Por Doc Brown
+Por Doc Brown & Marty McFly
 """
 
 class Clouds(object):
