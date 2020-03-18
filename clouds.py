@@ -19,7 +19,7 @@ class Clouds(object):
     def __str__(self):
         return "Cloud: "+str(self.name)+" - Created on: "+str(self.year)
 
-azure = Clouds()
-azure.set_name("Microsoft Azure")
-azure.set_year("2010")
-print(azure)
+aws = Clouds()
+aws.set_name("Amazon Web Services")
+aws.set_year("2006")
+print(aws)
