@@ -1,7 +1,7 @@
 """
 Clouds classes - Python
 Desenvolvido em 21/10/2015
-Por Doc Brown
+Por BlueShift Dev
 """
 
 class Clouds(object):
@@ -19,6 +19,7 @@ class Clouds(object):
     def __str__(self):
         return "Cloud: "+str(self.name)+" - Created on: "+str(self.year)
 
+# com instrucoes de uso
 azure = Clouds()
 azure.set_name("Microsoft Azure")
 azure.set_year("2010")
