@@ -42,4 +42,3 @@ aws.set_name("Amazon Web Services")
 aws.set_year("2006")
 print(aws)
 >>>>>>> paralela
-#inserir mais objetos abaixo
